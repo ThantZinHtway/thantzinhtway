@@ -1,0 +1,21 @@
+    1  git status
+    2  git add -u
+    3  git init
+    4  git add 
+    5  git add .
+    6  git init
+    7  pwd
+    8  cls
+    9  clear
+   10  git status
+   11  pwd
+   12  cd c:
+   13  git status
+   14  ls
+   15  cd gitrepo
+   16  ls
+   17  git init
+   18  status
+   19  git status
+   20  history
+   21  history > history.txt
